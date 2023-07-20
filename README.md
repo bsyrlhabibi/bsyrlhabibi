@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **bsyrlhabibi@gmail.com**
 
-- ⚡ Fun fact **"To be or not to be" - A Famous Quote by William Shakespeare**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bsyrlhabibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bsyrlhabibi" height="30" width="40" /></a>
