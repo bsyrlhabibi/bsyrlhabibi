@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Go Programming language**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bsyrlhabibi/](https://github.com/bsyrlhabibi?tab=repositories)
+- 👨‍💻 All of my projects are available at [**repository**](https://github.com/bsyrlhabibi?tab=repositories)
 
 - 📫 How to reach me **bsyrlhabibi@gmail.com**
 
