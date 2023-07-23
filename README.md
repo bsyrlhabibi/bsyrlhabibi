@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Bibi</h1>
-<h3 align="center">Eager to hone skills as a Golang backend developer</h3>
 
 - 🌱 I’m currently learning **Go Programming language**
 
